@@ -1,0 +1,22 @@
+h1{
+    color: black;
+}
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(to left,black, brown,rgb(190, 54, 54));
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.caja{
+background: white;
+padding: 10px; /*relleno*/
+box-shadow: 3px 3px 15px;
+}
+p{
+    color: gray;
+}
+a{
+text-decoration: none;
+color: black;
+font-weight: bold;
+}
